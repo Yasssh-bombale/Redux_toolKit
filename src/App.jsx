@@ -1,6 +1,8 @@
 import "./App.css";
 import AddTodo from "./Components/AddTodo";
 import Todos from "./Components/Todos";
+import "./styles/Todo.scss";
+import "./styles/AddTodo.scss";
 function App() {
   return (
     <>
